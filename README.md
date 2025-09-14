@@ -1,6 +1,6 @@
 # Hi there, I'm Baturalp 👋
 
-AI/ML Engineer | Backend Developer | Open-Source Enthusiast  
+AI/ML Engineer | Backend Developer 
 
 I’m passionate about building intelligent systems, scalable backend architectures, and applying AI to solve real-world problems. My work spans **LLM systems, RAG pipelines, multi-agent workflows, and backend microservices**.  
 
