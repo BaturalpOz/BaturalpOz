@@ -53,4 +53,3 @@ I’m passionate about building intelligent systems, scalable backend architectu
 
 ---
 
-⚡ **Fun fact:** I love blending **AI research with practical system design** — from high-performance computing to real-time AI assistants.
